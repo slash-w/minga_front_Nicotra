@@ -44,10 +44,10 @@ function App() {
           <img src='../goodies/logo.png' className='my-4 w-20'></img>
           <div className='flex flex-col items-center mt-2'>
               <div className='flex'>
-                  <img src="../public/goodies/facebook-black.svg" className='h-7 w-7 m-1'></img>
-                  <img src="../public/goodies/twitter-black.svg" className='h-7 w-7 m-1'></img>
-                  <img src="../public/goodies/youtube-black.svg" className='h-7 w-7 m-1'></img>
-                  <img src="../public/goodies/vimeo-black.svg" className='h-7 w-7 m-1'></img>
+                  <img src="../public/images/facebook-black.svg" className='h-7 w-7 m-1'></img>
+                  <img src="../public/images/twitter-black.svg" className='h-7 w-7 m-1'></img>
+                  <img src="../public/images/youtube-black.svg" className='h-7 w-7 m-1'></img>
+                  <img src="../public/images/vimeo-black.svg" className='h-7 w-7 m-1'></img>
               </div>
               <a className='bg-gradient-to-b from-[#F9A8D4] to-[#F472B6] w-40 p-1 flex justify-center items-center text-xl text-white mt-2 rounded-full'>
             Donate
